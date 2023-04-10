@@ -4,3 +4,9 @@ theme = "theme"
 line-number = "relative"
 true-color = true
 lsp.display-inlay-hints = true
+
+[keys.insert]
+"C-[" = "normal_mode"
+
+[keys.select]
+"C-[" = "normal_mode"
