@@ -4,7 +4,6 @@ theme = "custom-onedark"
 line-number = "relative"
 true-color = true
 lsp.display-inlay-hints = true
-mouse = false
 
 [editor.auto-pairs]
 '(' = ')'
