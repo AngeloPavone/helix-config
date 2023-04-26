@@ -1,4 +1,4 @@
-theme = "theme"
+theme = "custom-onedark"
 
 [editor]
 line-number = "relative"
@@ -6,7 +6,7 @@ true-color = true
 lsp.display-inlay-hints = true
 
 [keys.insert]
-"C-[" = "normal_mode"
+"C-[" = ["normal_mode"]
 
 [keys.select]
-"C-[" = "normal_mode"
+"C-[" = ["normal_mode"]
